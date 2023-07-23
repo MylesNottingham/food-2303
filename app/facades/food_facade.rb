@@ -1,6 +1,3 @@
-require "./services/food_service"
-require "./app/models/poros/food"
-
 class FoodFacade
   attr_reader :query
 
